@@ -104,4 +104,6 @@ source $ZSH/oh-my-zsh.sh
 export SDKMAN_DIR="$HOME/.sdkman"
 [[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
 alias config='/usr/bin/git --git-dir=/home/reck/.cfg/ --work-tree=/home/reck'
+alias vim='nvim'
+
 
