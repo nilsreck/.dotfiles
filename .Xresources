@@ -108,8 +108,8 @@ XTerm*vt100.translations: #override \n\
 ! https://github.com/olstenlarck/urxvt-xterm-snazzy/blob/7c34009a19ade65271e26ef065c678b0fa2abd0d/.Xdefaults
 !
 XTerm*title: XTerminal
-XTerm*background: #5e81ac
-XTerm*foreground: #030303
+XTerm*background: #000000
+XTerm*foreground: #ffffff
 
 ! original #86a2b0
 XTerm*colorUL: #eff0eb
